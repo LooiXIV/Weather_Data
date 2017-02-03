@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# Reformat weather data and find the three closest weather stations to each lake\n\n",
+    "created" : 1486153318690.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "150186290",
+    "id" : "306FE82D",
+    "lastKnownWriteTime" : 1486154008,
+    "last_content_update" : 1486154008461,
+    "path" : "~/Dropbox/Lay Monitoring Data VT/Weather_Data/Format_weather_data/Reformat_Weather_Find_closest_WS.R",
+    "project_path" : "Reformat_Weather_Find_closest_WS.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
